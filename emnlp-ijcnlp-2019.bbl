@@ -1,0 +1,95 @@
+\begin{thebibliography}{12}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{Burges et~al.(2005)Burges, Shaked, Renshaw, Lazier, Deeds, Hamilton,
+  and Hullender}]{burges:05}
+Chris Burges, Tal Shaked, Erin Renshaw, Ari Lazier, Matt Deeds, Nicole
+  Hamilton, and Greg Hullender. 2005.
+\newblock \href {https://doi.org/10.1145/1102351.1102363} {Learning to rank
+  using gradient descent}.
+\newblock In \emph{Proceedings of the 22nd International Conference on Machine
+  Learning}.
+
+\bibitem[{Burges(2010)}]{burges:10}
+Chris~J.C. Burges. 2010.
+\newblock \href
+  {https://www.microsoft.com/en-us/research/publication/from-ranknet-to-lambdarank-to-lambdamart-an-overview/}
+  {From {RankNet} to {LambdaRank} to {LambdaMART}: An overview}.
+\newblock Technical report.
+
+\bibitem[{Chen et~al.(2018)Chen, Wang, Li, Ren, Li, Zhu, Li, Liu, Zhang, and
+  Wang}]{ChenW18}
+Qi~Chen, Haidong Wang, Mingqin Li, Gang Ren, Scarlett Li, Jeffery Zhu, Jason
+  Li, Chuanjie Liu, Lintao Zhang, and Jingdong Wang. 2018.
+\newblock \href {https://github.com/Microsoft/SPTAG} {\emph{SPTAG: A library
+  for fast approximate nearest neighbor search}}.
+
+\bibitem[{Fridman(2020)}]{fridman:youtube:20}
+Lex Fridman. 2020.
+\newblock \href {https://www.youtube.com/watch?v=nkWmiNRPU-c} {Cristos
+  {Goodrow}: Youtube algorithm}.
+\newblock \emph{Artificial Intelligence Podcast}.
+
+\bibitem[{Grbovic and Cheng(2018)}]{airbnb:18}
+Mihajlo Grbovic and Haibin Cheng. 2018.
+\newblock \href {https://doi.org/10.1145/3219819.3219885} {Real-time
+  personalization using embeddings for search ranking at {Airbnb}}.
+\newblock Association for Computing Machinery.
+
+\bibitem[{Lecher(2015)}]{google:wired:15}
+Colin Lecher. 2015.
+\newblock \href
+  {https://www.theverge.com/2015/10/26/9614836/google-search-ai-rankbrain}
+  {Google is using an {AI} called `{RankBrain}' to answer ambiguous questions}.
+\newblock \emph{Wired}.
+
+\bibitem[{Manning et~al.(2008)Manning, Raghavan, and Schütze}]{ir:manning:08}
+Christopher Manning, Prabhakar Raghavan, and Hinrich Schütze. 2008.
+\newblock \href
+  {https://nlp.stanford.edu/IR-book/html/htmledition/boolean-retrieval-1.html}
+  {\emph{Introduction to Information Retrieval}}.
+
+\bibitem[{Mikolov et~al.(2013)Mikolov, Sutskever, Chen, Corrado, and
+  Dean}]{mikolov:13}
+Tomas Mikolov, Ilya Sutskever, Kai Chen, Greg~S Corrado, and Jeff Dean. 2013.
+\newblock \href
+  {http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf}
+  {Distributed representations of words and phrases and their
+  compositionality}.
+\newblock In \emph{Advances in Neural Information Processing Systems 26}.
+
+\bibitem[{Naumov et~al.(2019)Naumov, Mudigere, Shi, Huang, Sundaraman, Park,
+  Wang, Gupta, Wu, Azzolini, Dzhulgakov, Mallevich, Cherniavskii, Lu,
+  Krishnamoorthi, Yu, Kondratenko, Pereira, Chen, Chen, Rao, Jia, Xiong, and
+  Smelyanskiy}]{facebook:dlrm:17}
+Maxim Naumov, Dheevatsa Mudigere, Hao{-}Jun~Michael Shi, Jianyu Huang,
+  Narayanan Sundaraman, Jongsoo Park, Xiaodong Wang, Udit Gupta, Carole{-}Jean
+  Wu, Alisson~G. Azzolini, Dmytro Dzhulgakov, Andrey Mallevich, Ilia
+  Cherniavskii, Yinghai Lu, Raghuraman Krishnamoorthi, Ansha Yu, Volodymyr
+  Kondratenko, Stephanie Pereira, Xianjie Chen, Wenlin Chen, Vijay Rao, Bill
+  Jia, Liang Xiong, and Misha Smelyanskiy. 2019.
+\newblock \href {http://arxiv.org/abs/1906.00091} {Deep learning recommendation
+  model for personalization and recommendation systems}.
+\newblock \emph{CoRR}.
+
+\bibitem[{Rose(2005)}]{rose:05}
+Charlie Rose. 2005.
+\newblock \href {https://www.youtube.com/watch?v=XeIIpLqsOe4} {Interview with
+  {Eric} {Schmidt}}.
+\newblock \emph{The Charlie Rose Show}.
+
+\bibitem[{Salihefendic(2015)}]{medium:reddit:15}
+Amir Salihefendic. 2015.
+\newblock \href
+  {https://medium.com/hacking-and-gonzo/how-reddit-ranking-algorithms-work-ef111e33d0d9}
+  {How {Reddit} ranking algorithms work}.
+\newblock \emph{Medium}.
+
+\bibitem[{Schwartz(2018)}]{schwartz:18}
+Barry Schwartz. 2018.
+\newblock \href
+  {https://searchengineland.com/google-admits-its-using-very-limited-personalization-in-search-results-305469}
+  {Google admits it's using very limited personalization in search results}.
+\newblock \emph{Search Engine Land}.
+
+\end{thebibliography}
